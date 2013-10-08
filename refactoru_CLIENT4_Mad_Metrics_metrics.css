@@ -1,0 +1,21 @@
+h1 {
+	padding: 20px 30px;
+
+}
+
+.button {
+	position:fixed;
+	padding: 20px 30px;
+	border: 5px solid green;
+	font-size: 14px;
+	margin: 20px;
+	font-family: "Arial";
+	font-weight: bold;
+	background-color: peachpuff;
+	text-decoration: none;
+	-webkit-transition: all .5s;
+}
+
+a {
+	color: black;
+}
